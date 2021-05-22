@@ -11,13 +11,19 @@ ___
 ([link](https://dacon.io/competitions/official/235697/talkboard/402704?page=1&dtype=recent))  
 <img alt="ranking" src="./img/ranking.jfif"  width="50%" height="50%">
 
-### Solution 발표
-([link](https://www.facebook.com/dacon.io/))  
+### Solution 발표 영상
+([link](https://youtu.be/oVjd4vBidog))  
 <img alt="facebook" src="./img/facebook.png"  width="50%" height="50%">
+
+### Solution 발표 자료
+link
 
 ### 각종 토론 글 작성
 ([link](https://www.facebook.com/dacon.io/))  
 <img alt="facebook" src="./img/facebook.png"  width="50%" height="50%">
+
+### 
+
 ___
 
 ## 대회 개요

@@ -7,13 +7,8 @@ ___
 
 ## 성과
 
-<<<<<<< HEAD
 ### 최종 순위 1위(공동) 달성  
 <img alt="ranking" src="./img/KLUE_Ranking.png"  width="80%" height="50%"> ([link](http://boostcamp.stages.ai/competitions/4/leaderboard))  
-=======
-### 최종순위 1위(공동) 달성  
-<img alt="ranking" src="./img/KLUE_Ranking.png"  width="90%" height="50%"> ([link](http://boostcamp.stages.ai/competitions/4/leaderboard))
->>>>>>> 99918f90de183567494d5cc946be5f44a4b38bfb
 
 ### Solution 발표 영상
 <img alt="announcement" src="./img/KLUE_Announcement.png"  width="80%" height="50%"> ([link](https://youtu.be/oVjd4vBidog))  
@@ -22,11 +17,7 @@ ___
 <img alt="PPT" src="./img/KLUE_PPT.png"  width="80%" height="50%"> ([link](https://github.com/bcaitech1/p2-klue-LeeHyeonKyu/tree/main/etc/KLUE_Solution.pdf))  
 
 ### 각종 토론 글 작성  
-<<<<<<< HEAD
 <img alt="discussion" src="./img/KLUE_Discussion.png"  width="80%" height="50%"> ([link](http://boostcamp.stages.ai/competitions/4/discussion?sort=4&page=1))  
-=======
-<img alt="discussion" src="./img/KLUE_Discussion.png"  width="90%" height="50%"> ([link](http://boostcamp.stages.ai/competitions/4/discussion?sort=4&page=1))  
->>>>>>> 99918f90de183567494d5cc946be5f44a4b38bfb
 
 ___
 
@@ -37,7 +28,6 @@ ___
 위 그림의 예시와 같이 요약된 정보를 사용해 QA 시스템 구축과 활용이 가능하며, 이외에도 요약된 언어 정보를 바탕으로 효율적인 시스템 및 서비스 구성이 가능합니다.  
 이번 대회에서는 문장, 엔티티, 관계에 대한 정보를 통해 ,문장과 엔티티 사이의 관계를 추론하는 모델을 학습시킵니다. 이를 통해 우리의 인공지능 모델이 엔티티들의 속성과 관계를 파악하며 개념을 학습할 수 있습니다. 우리의 model이 정말 언어를 잘 이해하고 있는 지, 평가해 보도록 합니다. 
 ([link](http://boostcamp.stages.ai/competitions/4/overview/description))  
-
 
 ### 평가 방법  
 모델 제출은 하루 5회로 제한됩니다.  

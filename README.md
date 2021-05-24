@@ -39,10 +39,13 @@ ___
 ## 대회 참여
 
 ### 참여 일정
-|일시|내용|비고|  
+| 일시 | 내용 | Score |  
 |:--:|:--:|:--:|
-|21.04.12 ~ 13| Baseline 이해 ||
-| | | |
+|21.04.12 ~ 14| Baseline 이해 및 개인 Code 설계 | 약 57% |
+|21.04.15 ~ 16| Backbone Model, 외부 데이터, Entity Token 등 실험 | 약 70% |
+|21.04.17 ~ 18| Qeustion Sentence, Dropout 등 실험 | 약 70% |
+|21.04.19 ~ 20| Random Masking, Truncation, OOF 등 실험 | 약 72% |
+|21.04.21 ~ 22| Back Translation, R-BERT, LSTM Classifier 등 실험 | 약 82% |
 
 ### 참여 내용 (상세)
 Wrap-up Report에 자세히 작성했습니다. 

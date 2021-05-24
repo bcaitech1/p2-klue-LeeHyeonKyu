@@ -9,7 +9,7 @@ ___
 
 ## 성과
 
-### 최종 순위 1위 달성  
+### 최종순위 1위(공동) 달성  
 <img alt="ranking" src="./img/KLUE_Ranking.png"  width="90%" height="50%"> ([link](http://boostcamp.stages.ai/competitions/4/leaderboard))
 
 ### Solution 발표 영상

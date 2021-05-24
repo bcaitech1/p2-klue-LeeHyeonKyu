@@ -7,8 +7,13 @@ ___
 
 ## 성과
 
+<<<<<<< HEAD
 ### 최종 순위 1위(공동) 달성  
 <img alt="ranking" src="./img/KLUE_Ranking.png"  width="80%" height="50%"> ([link](http://boostcamp.stages.ai/competitions/4/leaderboard))  
+=======
+### 최종순위 1위(공동) 달성  
+<img alt="ranking" src="./img/KLUE_Ranking.png"  width="90%" height="50%"> ([link](http://boostcamp.stages.ai/competitions/4/leaderboard))
+>>>>>>> 99918f90de183567494d5cc946be5f44a4b38bfb
 
 ### Solution 발표 영상
 <img alt="announcement" src="./img/KLUE_Announcement.png"  width="80%" height="50%"> ([link](https://youtu.be/oVjd4vBidog))  
@@ -17,7 +22,11 @@ ___
 <img alt="PPT" src="./img/KLUE_PPT.png"  width="80%" height="50%"> ([link](https://github.com/bcaitech1/p2-klue-LeeHyeonKyu/tree/main/etc/KLUE_Solution.pdf))  
 
 ### 각종 토론 글 작성  
+<<<<<<< HEAD
 <img alt="discussion" src="./img/KLUE_Discussion.png"  width="80%" height="50%"> ([link](http://boostcamp.stages.ai/competitions/4/discussion?sort=4&page=1))  
+=======
+<img alt="discussion" src="./img/KLUE_Discussion.png"  width="90%" height="50%"> ([link](http://boostcamp.stages.ai/competitions/4/discussion?sort=4&page=1))  
+>>>>>>> 99918f90de183567494d5cc946be5f44a4b38bfb
 
 ___
 

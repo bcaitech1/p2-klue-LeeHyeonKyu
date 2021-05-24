@@ -9,17 +9,21 @@ ___
 
 ## 성과
 
-### 최종 순위 1위 달성
-([link](  ))  
+### 최종 순위 1위 달성  
+<img alt="ranking" src="./img/KLUE_Ranking.png"  width="100%" height="50%">  
+
+([link](http://boostcamp.stages.ai/competitions/4/leaderboard))
 
 ### Solution 발표 영상
 ([link](https://youtu.be/oVjd4vBidog))  
 
 ### Solution 발표 자료
-link
+([link](https://github.com/bcaitech1/p2-klue-LeeHyeonKyu/tree/main/etc/KLUE_Solution.pdf))  
 
-### 각종 토론 글 작성
-([link]( ))  
+### 각종 토론 글 작성  
+<img alt="discussion" src="./img/KLUE_Discussion.png"  width="100%" height="50%">  
+
+([link](http://boostcamp.stages.ai/competitions/4/discussion?sort=4&page=1))  
 
 ___
 
